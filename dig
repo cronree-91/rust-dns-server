@@ -1,0 +1,1 @@
+dig @localhost -p8001 test.com
